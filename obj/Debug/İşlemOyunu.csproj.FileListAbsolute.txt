@@ -1,0 +1,6 @@
+C:\Users\Monster\source\repos\İşlemOyunu\İşlemOyunu\bin\Debug\İşlemOyunu.exe.config
+C:\Users\Monster\source\repos\İşlemOyunu\İşlemOyunu\bin\Debug\İşlemOyunu.exe
+C:\Users\Monster\source\repos\İşlemOyunu\İşlemOyunu\bin\Debug\İşlemOyunu.pdb
+C:\Users\Monster\source\repos\İşlemOyunu\İşlemOyunu\obj\Debug\İşlemOyunu.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\İşlemOyunu\İşlemOyunu\obj\Debug\İşlemOyunu.exe
+C:\Users\Monster\source\repos\İşlemOyunu\İşlemOyunu\obj\Debug\İşlemOyunu.pdb
